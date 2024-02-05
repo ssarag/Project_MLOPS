@@ -221,3 +221,270 @@ Source-Age: 0
 [2024-02-05 16:37:32,499: INFO: main: >>>>>> stage Data Ingestion stage completed <<<<<<
 
 x==========x]
+[2024-02-05 16:56:05,077: INFO: main: >>>>>> stage Data Ingestion stage started <<<<<<]
+[2024-02-05 16:56:05,081: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-02-05 16:56:05,081: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-02-05 16:56:05,081: INFO: common: yaml file: schema.yaml loaded successfully]
+[2024-02-05 16:56:05,081: INFO: common: created directory at: artifacts]
+[2024-02-05 16:56:05,081: INFO: common: created directory at: artifacts/data_ingestion]
+[2024-02-05 16:56:05,081: INFO: data_ingestion: File already exists of size: ~ 23 KB]
+[2024-02-05 16:56:05,091: INFO: main: >>>>>> stage Data Ingestion stage completed <<<<<<
+
+x==========x]
+[2024-02-05 20:13:57,486: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-02-05 20:13:57,491: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-02-05 20:13:57,495: INFO: common: yaml file: schema.yaml loaded successfully]
+[2024-02-05 20:16:04,651: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-02-05 20:16:04,656: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-02-05 20:16:04,659: INFO: common: yaml file: schema.yaml loaded successfully]
+[2024-02-05 20:16:04,662: INFO: common: created directory at: artifacts]
+[2024-02-05 20:18:31,390: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-02-05 20:18:31,394: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-02-05 20:18:31,398: INFO: common: yaml file: schema.yaml loaded successfully]
+[2024-02-05 20:18:31,399: INFO: common: created directory at: artifacts]
+[2024-02-05 20:18:31,404: INFO: common: created directory at: artifcats/data_validation]
+[2024-02-05 20:20:39,387: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-02-05 20:20:39,390: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-02-05 20:20:39,395: INFO: common: yaml file: schema.yaml loaded successfully]
+[2024-02-05 20:20:39,397: INFO: common: created directory at: artifacts]
+[2024-02-05 20:20:39,398: INFO: common: created directory at: artifcats/data_validation]
+[2024-02-05 20:23:54,789: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-02-05 20:23:54,793: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-02-05 20:23:54,797: INFO: common: yaml file: schema.yaml loaded successfully]
+[2024-02-05 20:23:54,799: INFO: common: created directory at: artifacts]
+[2024-02-05 20:23:54,802: INFO: common: created directory at: artifcats/data_validation]
+[2024-02-05 20:26:34,613: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-02-05 20:26:34,615: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-02-05 20:26:34,619: INFO: common: yaml file: schema.yaml loaded successfully]
+[2024-02-05 20:26:34,620: INFO: common: created directory at: artifacts]
+[2024-02-05 20:26:34,623: INFO: common: created directory at: artifcats/data_validation]
+[2024-02-05 20:28:45,591: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-02-05 20:28:45,595: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-02-05 20:28:45,598: INFO: common: yaml file: schema.yaml loaded successfully]
+[2024-02-05 20:28:45,600: INFO: common: created directory at: artifacts]
+[2024-02-05 20:28:45,601: INFO: common: created directory at: artifcats/data_validation]
+[2024-02-05 20:29:34,286: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-02-05 20:29:34,290: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-02-05 20:29:34,293: INFO: common: yaml file: schema.yaml loaded successfully]
+[2024-02-05 20:29:34,295: INFO: common: created directory at: artifacts]
+[2024-02-05 20:29:34,296: INFO: common: created directory at: artifcats/data_validation]
+[2024-02-05 20:30:43,084: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-02-05 20:30:43,091: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-02-05 20:30:43,094: INFO: common: yaml file: schema.yaml loaded successfully]
+[2024-02-05 20:30:43,096: INFO: common: created directory at: artifacts]
+[2024-02-05 20:30:43,097: INFO: common: created directory at: artifcats/data_validation]
+[2024-02-05 20:37:40,425: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-02-05 20:37:40,431: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-02-05 20:37:40,432: INFO: common: yaml file: schema.yaml loaded successfully]
+[2024-02-05 20:37:40,436: INFO: common: created directory at: artifacts]
+[2024-02-05 20:37:40,436: INFO: common: created directory at: artifcats/data_validation]
+[2024-02-05 20:40:59,185: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-02-05 20:40:59,187: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-02-05 20:40:59,189: INFO: common: yaml file: schema.yaml loaded successfully]
+[2024-02-05 20:40:59,193: INFO: common: created directory at: artifacts]
+[2024-02-05 20:40:59,194: INFO: common: created directory at: artifcats/data_validation]
+[2024-02-05 20:43:30,195: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-02-05 20:43:30,202: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-02-05 20:43:30,206: INFO: common: yaml file: schema.yaml loaded successfully]
+[2024-02-05 20:43:30,208: INFO: common: created directory at: artifacts]
+[2024-02-05 20:43:30,209: INFO: common: created directory at: artifcats/data_validation]
+[2024-02-05 20:44:30,294: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-02-05 20:44:30,296: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-02-05 20:44:30,298: INFO: common: yaml file: schema.yaml loaded successfully]
+[2024-02-05 20:44:30,300: INFO: common: created directory at: artifacts]
+[2024-02-05 20:44:30,301: INFO: common: created directory at: artifcats/data_validation]
+[2024-02-05 20:44:47,186: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-02-05 20:44:47,187: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-02-05 20:44:47,190: INFO: common: yaml file: schema.yaml loaded successfully]
+[2024-02-05 20:44:47,191: INFO: common: created directory at: artifacts]
+[2024-02-05 20:44:47,193: INFO: common: created directory at: artifcats/data_validation]
+[2024-02-05 20:48:53,736: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-02-05 20:48:53,737: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-02-05 20:48:53,741: INFO: common: yaml file: schema.yaml loaded successfully]
+[2024-02-05 20:48:53,743: INFO: common: created directory at: artifacts]
+[2024-02-05 20:48:53,743: INFO: common: created directory at: artifcats/data_validation]
+[2024-02-05 20:49:35,320: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-02-05 20:49:35,324: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-02-05 20:49:35,328: INFO: common: yaml file: schema.yaml loaded successfully]
+[2024-02-05 20:49:35,332: INFO: common: created directory at: artifacts]
+[2024-02-05 20:49:35,334: INFO: common: created directory at: artifcats/data_validation]
+[2024-02-05 20:52:30,353: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-02-05 20:52:30,355: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-02-05 20:52:30,358: INFO: common: yaml file: schema.yaml loaded successfully]
+[2024-02-05 20:52:30,360: INFO: common: created directory at: artifacts]
+[2024-02-05 20:52:30,362: INFO: common: created directory at: artifacts/data_validation]
+[2024-02-05 21:23:51,572: INFO: main: >>>>>> stage Data Ingestion stage started <<<<<<]
+[2024-02-05 21:23:51,576: ERROR: main: while scanning for the next token
+found character '@' that cannot start any token
+  in "config\config.yaml", line 16, column 1]
+Traceback (most recent call last):
+  File "D:\MLOPS\Project_MLOPS\main.py", line 11, in <module>
+    data_ingestion.main()
+  File "D:\MLOPS\Project_MLOPS\src\mlProject\pipeline\stage_01_data_ingestion.py", line 13, in main
+    config = ConfigurationManager()
+             ^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\MLOPS\Project_MLOPS\src\mlProject\config\configuration.py", line 12, in __init__
+    self.config = read_yaml(config_filepath)
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\SHALAKA\AppData\Local\Programs\Python\Python311\Lib\site-packages\ensure\main.py", line 849, in __call__
+    return_val = self.f(*args, **kwargs)
+                 ^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\MLOPS\Project_MLOPS\src\mlProject\utils\common.py", line 36, in read_yaml
+    raise e
+  File "D:\MLOPS\Project_MLOPS\src\mlProject\utils\common.py", line 30, in read_yaml
+    content = yaml.safe_load(yaml_file)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\SHALAKA\AppData\Local\Programs\Python\Python311\Lib\site-packages\yaml\__init__.py", line 125, in safe_load
+    return load(stream, SafeLoader)
+           ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\SHALAKA\AppData\Local\Programs\Python\Python311\Lib\site-packages\yaml\__init__.py", line 81, in load
+    return loader.get_single_data()
+           ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\SHALAKA\AppData\Local\Programs\Python\Python311\Lib\site-packages\yaml\constructor.py", line 49, in get_single_data
+    node = self.get_single_node()
+           ^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\SHALAKA\AppData\Local\Programs\Python\Python311\Lib\site-packages\yaml\composer.py", line 36, in get_single_node
+    document = self.compose_document()
+               ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\SHALAKA\AppData\Local\Programs\Python\Python311\Lib\site-packages\yaml\composer.py", line 55, in compose_document
+    node = self.compose_node(None, None)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\SHALAKA\AppData\Local\Programs\Python\Python311\Lib\site-packages\yaml\composer.py", line 84, in compose_node
+    node = self.compose_mapping_node(anchor)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\SHALAKA\AppData\Local\Programs\Python\Python311\Lib\site-packages\yaml\composer.py", line 133, in compose_mapping_node
+    item_value = self.compose_node(node, item_key)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\SHALAKA\AppData\Local\Programs\Python\Python311\Lib\site-packages\yaml\composer.py", line 84, in compose_node
+    node = self.compose_mapping_node(anchor)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\SHALAKA\AppData\Local\Programs\Python\Python311\Lib\site-packages\yaml\composer.py", line 127, in compose_mapping_node
+    while not self.check_event(MappingEndEvent):
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\SHALAKA\AppData\Local\Programs\Python\Python311\Lib\site-packages\yaml\parser.py", line 98, in check_event
+    self.current_event = self.state()
+                         ^^^^^^^^^^^^
+  File "C:\Users\SHALAKA\AppData\Local\Programs\Python\Python311\Lib\site-packages\yaml\parser.py", line 428, in parse_block_mapping_key
+    if self.check_token(KeyToken):
+       ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\SHALAKA\AppData\Local\Programs\Python\Python311\Lib\site-packages\yaml\scanner.py", line 116, in check_token
+    self.fetch_more_tokens()
+  File "C:\Users\SHALAKA\AppData\Local\Programs\Python\Python311\Lib\site-packages\yaml\scanner.py", line 258, in fetch_more_tokens
+    raise ScannerError("while scanning for the next token", None,
+yaml.scanner.ScannerError: while scanning for the next token
+found character '@' that cannot start any token
+  in "config\config.yaml", line 16, column 1
+[2024-02-05 21:25:05,936: INFO: main: >>>>>> stage Data Ingestion stage started <<<<<<]
+[2024-02-05 21:25:05,936: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-02-05 21:25:05,936: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-02-05 21:25:05,936: INFO: common: yaml file: schema.yaml loaded successfully]
+[2024-02-05 21:25:05,947: INFO: common: created directory at: artifacts]
+[2024-02-05 21:25:05,949: INFO: common: created directory at: artifacts/data_ingestion]
+[2024-02-05 21:25:07,033: INFO: data_ingestion: artifacts/data_ingestion/data.zip downloaded with the following info:
+Connection: close
+Content-Length: 23329
+Cache-Control: max-age=300
+Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox
+Content-Type: application/zip
+ETag: "c69888a4ae59bc5a893392785a938ccd4937981c06ba8a9d6a21aa52b4ab5b6e"
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-XSS-Protection: 1; mode=block
+X-GitHub-Request-Id: 95A4:306011:16EB69:23EB2F:65C104DB
+Accept-Ranges: bytes
+Date: Mon, 05 Feb 2024 15:55:07 GMT
+Via: 1.1 varnish
+X-Served-By: cache-hyd1100030-HYD
+X-Cache: MISS
+X-Cache-Hits: 0
+X-Timer: S1707148507.195045,VS0,VE287
+Vary: Authorization,Accept-Encoding,Origin
+Access-Control-Allow-Origin: *
+Cross-Origin-Resource-Policy: cross-origin
+X-Fastly-Request-ID: 70455732df806416c9fbd947efaf8d8c4d8960dc
+Expires: Mon, 05 Feb 2024 16:00:07 GMT
+Source-Age: 0
+
+]
+[2024-02-05 21:25:07,047: INFO: main: >>>>>> stage Data Ingestion stage completed <<<<<<
+
+x==========x]
+[2024-02-05 21:25:07,047: INFO: main: >>>>>> stage Data Validation Stage started <<<<<<]
+[2024-02-05 21:25:07,050: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-02-05 21:25:07,050: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-02-05 21:25:07,052: INFO: common: yaml file: schema.yaml loaded successfully]
+[2024-02-05 21:25:07,052: INFO: common: created directory at: artifacts]
+[2024-02-05 21:25:07,052: INFO: common: created directory at: artifacts/data_validation]
+[2024-02-05 21:25:07,052: ERROR: main: name 'DataValiadtion' is not defined]
+Traceback (most recent call last):
+  File "D:\MLOPS\Project_MLOPS\main.py", line 23, in <module>
+    data_ingestion.main()
+  File "D:\MLOPS\Project_MLOPS\src\mlProject\pipeline\stage_02_data_validation.py", line 15, in main
+    data_validation = DataValiadtion(config=data_validation_config)
+                      ^^^^^^^^^^^^^^
+NameError: name 'DataValiadtion' is not defined
+[2024-02-05 21:26:24,900: INFO: main: >>>>>> stage Data Ingestion stage started <<<<<<]
+[2024-02-05 21:26:24,900: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-02-05 21:26:24,900: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-02-05 21:26:24,906: INFO: common: yaml file: schema.yaml loaded successfully]
+[2024-02-05 21:26:24,906: INFO: common: created directory at: artifacts]
+[2024-02-05 21:26:24,906: INFO: common: created directory at: artifacts/data_ingestion]
+[2024-02-05 21:26:24,906: INFO: data_ingestion: File already exists of size: ~ 23 KB]
+[2024-02-05 21:26:24,909: INFO: main: >>>>>> stage Data Ingestion stage completed <<<<<<
+
+x==========x]
+[2024-02-05 21:26:24,909: INFO: main: >>>>>> stage Data Validation Stage started <<<<<<]
+[2024-02-05 21:26:24,913: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-02-05 21:26:24,913: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-02-05 21:26:24,913: INFO: common: yaml file: schema.yaml loaded successfully]
+[2024-02-05 21:26:24,916: INFO: common: created directory at: artifacts]
+[2024-02-05 21:26:24,916: INFO: common: created directory at: artifacts/data_validation]
+[2024-02-05 21:26:24,934: INFO: main: >>>>>> stage Data Validation Stage completed <<<<<<
+
+x==========x]
+[2024-02-05 21:28:47,191: INFO: main: >>>>>> stage Data Ingestion stage started <<<<<<]
+[2024-02-05 21:28:47,193: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-02-05 21:28:47,194: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-02-05 21:28:47,195: INFO: common: yaml file: schema.yaml loaded successfully]
+[2024-02-05 21:28:47,195: INFO: common: created directory at: artifacts]
+[2024-02-05 21:28:47,196: INFO: common: created directory at: artifacts/data_ingestion]
+[2024-02-05 21:28:47,921: INFO: data_ingestion: artifacts/data_ingestion/data.zip downloaded with the following info:
+Connection: close
+Content-Length: 23329
+Cache-Control: max-age=300
+Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox
+Content-Type: application/zip
+ETag: "c69888a4ae59bc5a893392785a938ccd4937981c06ba8a9d6a21aa52b4ab5b6e"
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-XSS-Protection: 1; mode=block
+X-GitHub-Request-Id: 95A4:306011:16EB69:23EB2F:65C104DB
+Accept-Ranges: bytes
+Date: Mon, 05 Feb 2024 15:58:48 GMT
+Via: 1.1 varnish
+X-Served-By: cache-hyd1100030-HYD
+X-Cache: HIT
+X-Cache-Hits: 1
+X-Timer: S1707148728.388985,VS0,VE0
+Vary: Authorization,Accept-Encoding,Origin
+Access-Control-Allow-Origin: *
+Cross-Origin-Resource-Policy: cross-origin
+X-Fastly-Request-ID: facd6c699944a49939acd0e2b4feef2f4068a188
+Expires: Mon, 05 Feb 2024 16:03:48 GMT
+Source-Age: 221
+
+]
+[2024-02-05 21:28:47,927: INFO: main: >>>>>> stage Data Ingestion stage completed <<<<<<
+
+x==========x]
+[2024-02-05 21:28:47,928: INFO: main: >>>>>> stage Data Validation Stage started <<<<<<]
+[2024-02-05 21:28:47,930: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-02-05 21:28:47,930: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-02-05 21:28:47,932: INFO: common: yaml file: schema.yaml loaded successfully]
+[2024-02-05 21:28:47,932: INFO: common: created directory at: artifacts]
+[2024-02-05 21:28:47,934: INFO: common: created directory at: artifacts/data_validation]
+[2024-02-05 21:28:47,950: INFO: main: >>>>>> stage Data Validation Stage completed <<<<<<
+
+x==========x]
