@@ -15,7 +15,7 @@ class DataTransformationTrainingPipeline:
     def main(self):
         try:
             with open(Path("artifacts/data_validation/status.txt"), "r") as f:
-                status = f.read().split(" "[-1])
+                status = f.read().split(" ")[-1]
 
             if status == "True":
                 config = ConfigurationManager()
@@ -26,7 +26,10 @@ class DataTransformationTrainingPipeline:
                 raise Exception("The Data Schema is not valid")
 
         except Exception as e:
-            print(e)       
+            logger.exception(e)
+            raise e
+
+     
 
 if __name__ == '__main__':
     try:
