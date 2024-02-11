@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/MLOPS/Project_MLOPS/mlruns/0/cc55370d31a9433a9ac96bf52aeb82a5/artifacts
+end_time: 1707420809558
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: cc55370d31a9433a9ac96bf52aeb82a5
+run_name: luminous-crab-752
+run_uuid: cc55370d31a9433a9ac96bf52aeb82a5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707420803598
+status: 3
+tags: []
+user_id: SHALAKA

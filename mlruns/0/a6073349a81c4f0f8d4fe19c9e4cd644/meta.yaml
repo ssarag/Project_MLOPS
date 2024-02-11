@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/MLOPS/Project_MLOPS/mlruns/0/a6073349a81c4f0f8d4fe19c9e4cd644/artifacts
+end_time: 1707420761294
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a6073349a81c4f0f8d4fe19c9e4cd644
+run_name: thundering-worm-510
+run_uuid: a6073349a81c4f0f8d4fe19c9e4cd644
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707420754927
+status: 3
+tags: []
+user_id: SHALAKA
