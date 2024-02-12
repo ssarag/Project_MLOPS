@@ -1910,3 +1910,16 @@ x==========x]
 [2024-02-11 20:12:10,468: INFO: _internal: 127.0.0.1 - - [11/Feb/2024 20:12:10] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -]
 [2024-02-11 20:12:10,635: INFO: _internal: 127.0.0.1 - - [11/Feb/2024 20:12:10] "[36mGET /static/js/scripts.js HTTP/1.1[0m" 304 -]
 [2024-02-11 20:12:10,870: INFO: _internal: 127.0.0.1 - - [11/Feb/2024 20:12:10] "[33mGET /static/assets/img/wine.gif HTTP/1.1[0m" 404 -]
+[2024-02-12 20:52:22,935: INFO: _internal: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.1.5:8080]
+[2024-02-12 20:52:22,935: INFO: _internal: [33mPress CTRL+C to quit[0m]
+[2024-02-12 20:52:30,622: INFO: _internal: 127.0.0.1 - - [12/Feb/2024 20:52:30] "GET / HTTP/1.1" 200 -]
+[2024-02-12 20:52:31,090: INFO: _internal: 127.0.0.1 - - [12/Feb/2024 20:52:31] "GET /static/css2/nunito-font.css HTTP/1.1" 200 -]
+[2024-02-12 20:52:31,096: INFO: _internal: 127.0.0.1 - - [12/Feb/2024 20:52:31] "GET /static/css/styles.css HTTP/1.1" 200 -]
+[2024-02-12 20:52:31,101: INFO: _internal: 127.0.0.1 - - [12/Feb/2024 20:52:31] "GET /static/js/scripts.js HTTP/1.1" 200 -]
+[2024-02-12 20:52:31,101: INFO: _internal: 127.0.0.1 - - [12/Feb/2024 20:52:31] "GET /static/css2/style.css HTTP/1.1" 200 -]
+[2024-02-12 20:52:31,114: INFO: _internal: 127.0.0.1 - - [12/Feb/2024 20:52:31] "[33mGET /static/assets/img/wine.jpg HTTP/1.1[0m" 404 -]
+[2024-02-12 20:52:31,197: INFO: _internal: 127.0.0.1 - - [12/Feb/2024 20:52:31] "GET /static/assets/img/form-v9.jpg HTTP/1.1" 200 -]
+[2024-02-12 20:52:31,228: INFO: _internal: 127.0.0.1 - - [12/Feb/2024 20:52:31] "[33mGET /static/fonts/Nunito/Nunito-Bold.ttf HTTP/1.1[0m" 404 -]
